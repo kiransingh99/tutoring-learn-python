@@ -23,6 +23,6 @@ Skeleton code used to help students learn Python to a basic level.
 The exercises are designed to be completed in order. To complete an activity:
 
 1. Read through the ```guide.ipynb``` notebook, and change parts of the programs if you want to experiment with what happens - this will help your understanding.
-2. Complete the exercises for the exercise before moving onto the next activity.
+2. Complete the ```exercises.ipynb``` file for the exercise before moving onto the next activity.
 
 As you move through the activities you might need to revise some of the earlier notebooks.
