@@ -26,3 +26,7 @@ The exercises are designed to be completed in order. To complete an activity:
 2. Complete the ```exercises.ipynb``` file for the exercise before moving onto the next activity.
 
 As you move through the activities you might need to revise some of the earlier notebooks.
+
+## Tests
+
+In the exercises, there is one cell for you to enter your code, followed by another cell containing the [function](exercise4\guide.ipynb) ```assert(...)```. Don't edit anything in this cell. This just checks that your code gets the right final answer. For this reason, make sure you follow the instructions carefully and create [variables](exercise1\guide.ipynb) with the right name.
