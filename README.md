@@ -8,6 +8,8 @@ Skeleton code used to help students learn Python to a basic level.
 
 To use these notebooks, you will need to have Python 3 installed, and some way of viewing python notebooks (such as Jupyter, or a VS Code extension).
 
+If using VS Code, you may want to install an extension to let you view pdf files (but this is not necessary).
+
 ## Structure
 
 1. Variables, assignment and operator precedence
